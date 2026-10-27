@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Bengaluru Astro Pandit's</title>
+  <rect width="64" height="64" rx="16" fill="#b3002d"/>
+  <circle cx="32" cy="32" r="25" fill="none" stroke="#d6a742" stroke-width="2"/>
+  <path d="M32 13c-5.3 7-7.9 11.6-7.9 15.4 0 4.7 3.5 8.6 7.9 8.6s7.9-3.9 7.9-8.6C39.9 24.6 37.3 20 32 13Z" fill="#faf6ee"/>
+  <path d="M32 22c-2.1 3.2-3.1 5.2-3.1 7 0 1.8 1.4 3.3 3.1 3.3s3.1-1.5 3.1-3.3c0-1.8-1-3.8-3.1-7Z" fill="#d6a742"/>
+  <path d="M19 38.5h26c-1.7 7-6.5 10.5-13 10.5s-11.3-3.5-13-10.5Z" fill="#d6a742"/>
+  <path d="M17 38.5h30" fill="none" stroke="#faf6ee" stroke-linecap="round" stroke-width="2"/>
+  <path d="M25 51h14" fill="none" stroke="#d6a742" stroke-linecap="round" stroke-width="2"/>
+</svg>

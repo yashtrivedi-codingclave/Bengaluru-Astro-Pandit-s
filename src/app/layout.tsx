@@ -39,7 +39,10 @@ export const metadata: Metadata = {
   creator: siteConfig.name,
   publisher: siteConfig.legalName,
   icons: {
-    icon: "/favicon.ico",
+    icon: {
+      url: "/favicon.svg",
+      type: "image/svg+xml",
+    },
   },
   openGraph: {
     title: `${siteConfig.name} | Best Vedic Puja Services in Bangalore`,
