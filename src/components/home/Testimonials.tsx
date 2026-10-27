@@ -30,22 +30,24 @@ export function Testimonials() {
           </p>
 
           {/* Google Review Trust Badge */}
-          <div className="inline-flex items-center gap-4 py-2 px-5 rounded-full bg-white/70 border border-[#d4c2a5] shadow-sm">
-            <div className="flex items-center gap-1.5 font-bold text-sm text-[#4a2600]">
-              <span className="text-[#4285F4] font-black">G</span>
-              <span className="text-[#EA4335] font-black">o</span>
-              <span className="text-[#FBBC05] font-black">o</span>
-              <span className="text-[#4285F4] font-black">g</span>
-              <span className="text-[#34A853] font-black">l</span>
-              <span className="text-[#EA4335] font-black">e</span>
-              <span className="text-base font-extrabold ml-1">4.9 / 5.0</span>
+          <div className="inline-flex flex-wrap items-center justify-center gap-x-4 gap-y-2 py-2 px-4 sm:px-5 rounded-2xl sm:rounded-full bg-white/80 backdrop-blur-sm border border-[#d4c2a5] shadow-sm max-w-full">
+            <div className="flex items-center gap-2 flex-wrap justify-center">
+              <div className="flex items-center gap-1 font-bold text-sm text-[#4a2600]">
+                <span className="text-[#4285F4] font-black">G</span>
+                <span className="text-[#EA4335] font-black">o</span>
+                <span className="text-[#FBBC05] font-black">o</span>
+                <span className="text-[#4285F4] font-black">g</span>
+                <span className="text-[#34A853] font-black">l</span>
+                <span className="text-[#EA4335] font-black">e</span>
+                <span className="text-sm sm:text-base font-extrabold ml-1">4.9 / 5.0</span>
+              </div>
+              <div className="flex gap-0.5 text-[#ffc107]">
+                {[...Array(5)].map((_, i) => (
+                  <Star key={i} className="w-3.5 h-3.5 sm:w-4 sm:h-4 fill-[#ffc107]" />
+                ))}
+              </div>
             </div>
-            <div className="flex gap-0.5 text-[#ffc107]">
-              {[...Array(5)].map((_, i) => (
-                <Star key={i} className="w-4 h-4 fill-[#ffc107]" />
-              ))}
-            </div>
-            <span className="text-xs font-semibold text-[#8b7355] border-l border-[#d4c2a5] pl-3">
+            <span className="text-xs font-semibold text-[#8b7355] sm:border-l sm:border-[#d4c2a5] sm:pl-3 whitespace-nowrap">
               200+ Devotee Experiences
             </span>
           </div>
@@ -56,7 +58,7 @@ export function Testimonials() {
           {testimonialsData.map((item) => (
             <div
               key={item.id}
-              className="relative bg-[#fdfbf7] border-2 border-[#b3002d] rounded-2xl p-7 pt-9 flex flex-col justify-between shadow-[0_8px_32px_rgba(179,0,45,0.04)] hover:shadow-[0_16px_36px_rgba(179,0,45,0.12)] hover:-translate-y-1.5 transition-all duration-300 group"
+              className="relative bg-[#fdfbf7] border-2 border-[#b3002d] rounded-2xl p-5 sm:p-7 pt-8 sm:pt-9 flex flex-col justify-between shadow-[0_8px_32px_rgba(179,0,45,0.04)] hover:shadow-[0_16px_36px_rgba(179,0,45,0.12)] hover:-translate-y-1.5 transition-all duration-300 group"
             >
               {/* Inner Gold Frame */}
               <div className="absolute inset-1.5 border border-[#ffd700] rounded-xl pointer-events-none" />

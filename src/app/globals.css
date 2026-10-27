@@ -18,14 +18,16 @@
 
   html {
     scroll-behavior: smooth;
-    overflow-x: hidden;
+    max-width: 100vw;
+    overflow-x: clip;
   }
 
   body {
     background-color: #faf6ee;
     color: #4b3e2f;
     font-family: var(--font-body), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    overflow-x: hidden;
+    max-width: 100vw;
+    overflow-x: clip;
     margin: 0;
     padding: 0;
   }

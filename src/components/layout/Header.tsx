@@ -22,7 +22,7 @@ export function Header() {
               </span>
             </div>
             <div className="flex flex-col">
-              <span className="text-xl sm:text-2xl font-black tracking-tight uppercase bg-gradient-to-b from-[#ff2e5b] to-[#b3002d] bg-clip-text text-transparent leading-none drop-shadow-[1px_1px_0px_rgba(214,167,66,0.2)]">
+              <span className="text-base sm:text-xl md:text-2xl font-black tracking-tight uppercase bg-gradient-to-b from-[#ff2e5b] to-[#b3002d] bg-clip-text text-transparent leading-none drop-shadow-[1px_1px_0px_rgba(214,167,66,0.2)]">
                 {siteConfig.name}
               </span>
               <span className="text-[10px] font-bold text-[#b89768] tracking-[2px] uppercase mt-1 leading-none">

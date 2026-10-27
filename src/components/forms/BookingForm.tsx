@@ -213,7 +213,7 @@ export function BookingForm({ defaultService, onSuccess, className = "" }: Booki
           <label htmlFor="pujaLocation" className="block text-xs font-bold text-[#ffe8cc] uppercase tracking-wider mb-1">
             Ceremony Venue *
           </label>
-          <div className="grid grid-cols-3 gap-2">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-2">
             {["Home", "Office / Business", "Temple / Hall"].map((venue) => (
               <label
                 key={venue}
