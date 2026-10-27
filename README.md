@@ -1,5 +1,7 @@
 # Bengaluru Astro Pandit's — Vedic Puja Services in Bangalore
 
+**Live Website**: [https://bengaluru-astro-pandit-s.vercel.app/](https://bengaluru-astro-pandit-s.vercel.app/)
+
 A production-ready, commercial-grade Next.js web application for Bengaluru Astro Pandit's, inspired by the structure and user journeys of Vedic spiritual service platforms. Built with modern Next.js App Router architecture, TypeScript (strict mode), Tailwind CSS, Lucide icons, and React Hook Form + Zod validation.
 
 ---
