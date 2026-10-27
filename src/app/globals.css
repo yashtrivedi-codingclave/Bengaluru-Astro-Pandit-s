@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-cream: #faf6ee;
+    --color-ivory: #fcf8f0;
+    --color-maroon: #7b1828;
+    --color-deep-maroon: #5c0612;
+    --color-dark-maroon: #2e0005;
+    --color-vermilion: #ff2e5b;
+    --color-gold: #ffd700;
+    --color-gold-border: #d4c2a5;
+    --color-gold-dark: #b89768;
+    --color-text-dark: #29231f;
+    --color-text-body: #4b3e2f;
+    --color-text-muted: #6b5a4e;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+
+  body {
+    background-color: #faf6ee;
+    color: #4b3e2f;
+    font-family: var(--font-body), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading), Georgia, serif;
+    color: inherit;
+  }
+}
+
+/* Custom Devotional Gradient Utilities */
+.bg-devotional-gradient {
+  background: linear-gradient(135deg, #2e0005 0%, #54000c 50%, #2e0005 100%);
+}
+
+.bg-hero-gold-text {
+  background: linear-gradient(135deg, #c5a059, #fdf8c7, #c5a059, #b38728);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-vermilion-gradient {
+  background: linear-gradient(180deg, #ff2e5b 0%, #b3002d 100%);
+}
+
+.bg-gold-gradient {
+  background: linear-gradient(135deg, #fcf6ba 0%, #bf953f 50%, #b38728 100%);
+}
+
+.bg-whatsapp-gradient {
+  background: linear-gradient(135deg, #24d366 0%, #075e54 100%);
+}
+
+.bg-call-gradient {
+  background: linear-gradient(135deg, #ff2e5b 0%, #b3002d 100%);
+}
+
+/* Double border devotional box */
+.border-devotional-double {
+  border: 3px double #7b1828;
+}
+
+.border-gold-double {
+  border: 3px double #ffd700;
+  outline: 1px solid #ffd700;
+  outline-offset: -6px;
+}
+
+/* Mandala background pattern generator */
+.bg-mandala-pattern {
+  background-image: radial-gradient(#b89768 0.75px, transparent 0.75px), radial-gradient(#b89768 0.75px, #faf6ee 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+}
+
+/* Subtle Hover elevation */
+.card-devotional {
+  transition: transform 0.3s cubic-bezier(0.165, 0.84, 0.44, 1), box-shadow 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.card-devotional:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(123, 24, 40, 0.12);
+}
+
+/* Mobile lead bar bottom spacer so floating bars never block footer buttons */
+.pb-mobile-lead {
+  padding-bottom: 76px;
+}
+
+@media (min-width: 768px) {
+  .pb-mobile-lead {
+    padding-bottom: 0;
+  }
+}
