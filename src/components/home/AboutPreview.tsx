@@ -85,11 +85,11 @@ export function AboutPreview() {
             <div className="relative w-full max-w-sm aspect-4/5 rounded-2xl overflow-hidden border-2 border-[#d4c2a5] shadow-[0_15px_40px_rgba(139,90,43,0.12)] bg-[#fcf8f0] p-3 flex flex-col justify-between">
               <div className="relative w-full h-[85%] rounded-xl overflow-hidden">
                 <Image
-                  src="https://images.unsplash.com/photo-1609358905581-e5381612486e?auto=format&fit=crop&w=800&q=80"
+                  src="/images/assets/imgi_2_gkp_home_ganesha.png"
                   alt="Lord Ganesha and sacred Vedic puja altar setup in Bangalore"
                   fill
                   sizes="(max-width: 768px) 90vw, 350px"
-                  className="object-cover"
+                  className="object-contain p-1"
                 />
               </div>
 

@@ -11,8 +11,8 @@ export const servicesCatalogue: ServiceItem[] = [
       "Sacred Hindu wedding rituals performed with authentic Vedic mantras for marital harmony, lifelong companionship, and divine blessings.",
     longDescription:
       "Vivah Sanskar is one of the most sacred of the sixteen Vedic sacraments in Sanatana Dharma. Our experienced North Indian pandits conduct complete traditional wedding ceremonies adhering strictly to scriptural rites, including Kanyadaan, Panigrahana, Saptapadi (Seven Vows), and Laja Homa, creating an auspicious spiritual foundation for the couple's lifelong journey together.",
-    heroImage: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1200&q=80",
-    cardImage: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=600&q=80",
+    heroImage: "/images/assets/imgi_2_Untitled-design-11.png",
+    cardImage: "/images/assets/imgi_2_Untitled-design-11.png",
     imageAlt: "Traditional Vedic Hindu Marriage Puja rituals with sacred havan fire in Bangalore",
     duration: "3 – 5 Hours (Customizable per family traditions)",
     introduction:
@@ -124,8 +124,8 @@ export const servicesCatalogue: ServiceItem[] = [
       "Traditional housewarming puja inviting peace, health, positive vibrations, and divine energy into your new home.",
     longDescription:
       "Griha Pravesh is the auspicious ceremony performed before stepping into a newly built, purchased, or renovated home. By sanctifying the physical space with Vastu Shanti, Navagraha Aradhana, and sacred Havan, this ceremony dispels negative energies and fills every room with harmony, good fortune, and celestial blessings for all family members.",
-    heroImage: "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=1200&q=80",
-    cardImage: "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=600&q=80",
+    heroImage: "/images/assets/imgi_10_Untitled-design-10.jpg",
+    cardImage: "/images/assets/imgi_3_Untitled-design-3.png",
     imageAlt: "Auspicious Griha Pravesh Puja Kalash and Diya in a new home in Bangalore",
     duration: "2.5 – 3.5 Hours",
     introduction:
@@ -237,8 +237,8 @@ export const servicesCatalogue: ServiceItem[] = [
       "Auspicious land worship performed before starting construction to seek Mother Earth's blessings and remove subterranean obstacles.",
     longDescription:
       "Bhumi Puja (or Bhoomi Pujan) is performed to honour Dharti Mata (Mother Earth), Lord Ganesha, and Vastu Purusha prior to laying the foundation stone of any house, commercial building, or layout. This sacred rite apologizes to living organisms disturbed during excavation and ensures smooth, accident-free construction.",
-    heroImage: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
-    cardImage: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
+    heroImage: "/images/assets/imgi_9_Untitled-design-11.jpg",
+    cardImage: "/images/assets/imgi_4_Untitled-design-4.png",
     imageAlt: "Sacred Bhumi Puja foundation blessing ceremony in Bangalore",
     duration: "2 – 3 Hours",
     introduction:
@@ -348,8 +348,8 @@ export const servicesCatalogue: ServiceItem[] = [
       "Powerful Vedic ritual to pacify planetary afflictions, balance cosmic energies, and invite good health, success, and mental tranquility.",
     longDescription:
       "Navgrah Shanti Puja is dedicated to the nine celestial bodies: Surya (Sun), Chandra (Moon), Mangal (Mars), Budha (Mercury), Guru (Jupiter), Shukra (Venus), Shani (Saturn), Rahu (North Node), and Ketu (South Node). By chanting their specific Vedic Beej mantras and performing dedicated Havan, planetary doshas such as Sade Sati, Manglik dosha, or Rahu Mahadasha are harmonized.",
-    heroImage: "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
-    cardImage: "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=600&q=80",
+    heroImage: "/images/assets/imgi_2_Untitled-design-14.jpg",
+    cardImage: "/images/assets/imgi_5_Untitled-design-5.png",
     imageAlt: "Navgrah Shanti Puja Yantra and sacred flame offerings in Bangalore",
     duration: "2.5 – 3.5 Hours",
     introduction:
@@ -458,8 +458,8 @@ export const servicesCatalogue: ServiceItem[] = [
       "Devotional chanting and sacred Havan dedicated to Lord Shiva to pray for health, longevity, inner strength, and spiritual upliftment.",
     longDescription:
       "The Mahamrityunjay Mantra from the Rigveda is revered as the Great Death-conquering Hymn dedicated to Lord Shiva (Tryambaka). Chanted with utmost devotion and precision, this sacred Jaap invokes Lord Shiva's compassionate grace to bestow mental resilience, recovery from fatigue, courage against fears, and supreme spiritual tranquility.",
-    heroImage: "https://images.unsplash.com/photo-1545239351-ef35f43d514b?auto=format&fit=crop&w=1200&q=80",
-    cardImage: "https://images.unsplash.com/photo-1545239351-ef35f43d514b?auto=format&fit=crop&w=600&q=80",
+    heroImage: "/images/assets/imgi_2_Untitled-design-13.jpg",
+    cardImage: "/images/assets/imgi_6_Untitled-design-6.png",
     imageAlt: "Devotional Lord Shiva Mahamrityunjay Jaap and Rudraksha Mala in Bangalore",
     duration: "3 – 5 Hours (or multiple days for high-count Anushthan)",
     introduction:
@@ -568,8 +568,8 @@ export const servicesCatalogue: ServiceItem[] = [
       "Devotional recitation of Sunderkand from Shri Ramcharitmanas to invoke Lord Hanuman's grace for courage, strength, and obstacle removal.",
     longDescription:
       "Sunderkand is the fifth chapter of Goswami Tulsidas's revered epic, Shri Ramcharitmanas. Chronicling Lord Hanuman's heroic leap across the ocean to Lanka, his discovery of Mata Sita, and the triumph of pure devotion, reciting Sunderkand fills the home with immense positive vibrations, courage, confidence, and peace.",
-    heroImage: "https://images.unsplash.com/photo-1544717302-de2939b7ef71?auto=format&fit=crop&w=1200&q=80",
-    cardImage: "https://images.unsplash.com/photo-1544717302-de2939b7ef71?auto=format&fit=crop&w=600&q=80",
+    heroImage: "/images/assets/imgi_2_Untitled-design-12.jpg",
+    cardImage: "/images/assets/imgi_7_Untitled-design-7.png",
     imageAlt: "Devotional Ramayan Sunderkand Path with Hanuman Ji Puja in Bangalore",
     duration: "2.5 – 3.5 Hours",
     introduction:
@@ -678,8 +678,8 @@ export const servicesCatalogue: ServiceItem[] = [
       "Joyous devotional gathering dedicated to Maa Durga featuring sacred Jyot lighting, Bhajans, Bhents, and divine family blessings.",
     longDescription:
       "Mata Ki Chauki is an auspicious musical and spiritual gathering held to seek the maternal blessings of Maa Durga, Maa Lakshmi, and Maa Saraswati. Ideal for weddings, birthdays, new ventures, or Navratri, this evening program features beautiful floral decoration of Mata's throne (Chauki), lighting the Akhand Jyot, soulful bhajans, Ardas, and Kanjak/Kanya Pujan.",
-    heroImage: "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1200&q=80",
-    cardImage: "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=600&q=80",
+    heroImage: "/images/assets/imgi_2_Untitled-design-16.jpg",
+    cardImage: "/images/assets/imgi_8_Untitled-design-8.png",
     imageAlt: "Devotional Mata Ki Chauki floral setup and Akhand Jyot in Bangalore",
     duration: "3 – 4 Hours (typically evening 6 PM – 10 PM)",
     introduction:
@@ -789,8 +789,8 @@ export const servicesCatalogue: ServiceItem[] = [
       "Auspicious puja dedicated to Lord Vishnu for wealth, happiness, familial harmony, and the fulfillment of righteous wishes.",
     longDescription:
       "Shri Satyanarayan Puja is one of the most widely observed and cherished Vedic rituals across North India. Dedicated to Lord Satyanarayan—the embodiment of eternal Truth and the preserver Lord Vishnu—this ceremony involves chanting sacred hymns, reading the five devotional chapters of the Katha, and offering the beloved Panchamrit and Panjiri (Sheera) prasad.",
-    heroImage: "https://images.unsplash.com/photo-1606293926075-69a00dbfde81?auto=format&fit=crop&w=1200&q=80",
-    cardImage: "https://images.unsplash.com/photo-1606293926075-69a00dbfde81?auto=format&fit=crop&w=600&q=80",
+    heroImage: "/images/assets/imgi_2_Untitled-design-15.jpg",
+    cardImage: "/images/assets/imgi_9_Untitled-design-9.png",
     imageAlt: "Shri Satyanarayan Puja setup with banana stems, Kalash, and Panchamrit in Bangalore",
     duration: "2 – 2.5 Hours",
     introduction:
@@ -900,8 +900,8 @@ export const servicesCatalogue: ServiceItem[] = [
       "Traditional Vedic naming ceremony performed for newborns with astrological Nakshatra calculation and divine family blessings.",
     longDescription:
       "Namkaran Sanskar is the formal ceremony of conferring an auspicious name upon a newborn child in accordance with the planetary alignments and Janma Nakshatra (birth constellation). Performed usually on the 11th, 12th, or 21st day after birth, this sacred rite welcomes the baby into the family and community with divine Vedic prayers for longevity, intelligence, and high moral character.",
-    heroImage: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&w=1200&q=80",
-    cardImage: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?auto=format&fit=crop&w=600&q=80",
+    heroImage: "/images/assets/imgi_2_Untitled-design-18.jpg",
+    cardImage: "/images/assets/imgi_10_Untitled-design-10.png",
     imageAlt: "Auspicious Namkaran Puja naming ceremony rituals for newborn in Bangalore",
     duration: "2 – 2.5 Hours",
     introduction:
@@ -1010,8 +1010,8 @@ export const servicesCatalogue: ServiceItem[] = [
       "Traditional ancestral rites, Tarpan, and Pind Daan performed with devotion to bring peace to departed souls and seek Pitru blessings.",
     longDescription:
       "Shraddh Karma is the sacred obligation performed to express reverent gratitude and convey spiritual nourishment to departed parents and ancestors (Pitrus). Observed during Pitru Paksha (Mahalaya) or on the annual death anniversary (Barsi / Tithi), performing Shraddh with sesame seeds, Kusha grass, and pure mantra water liberates ancestral souls and brings immense generational peace.",
-    heroImage: "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=1200&q=80",
-    cardImage: "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=600&q=80",
+    heroImage: "/images/assets/imgi_3_Untitled-design-17.jpg",
+    cardImage: "/images/assets/imgi_11_Untitled-design-12.png",
     imageAlt: "Sacred Shraddh Karma, Tarpan, and ancestral rituals performed in Bangalore",
     duration: "2 – 3 Hours",
     introduction:

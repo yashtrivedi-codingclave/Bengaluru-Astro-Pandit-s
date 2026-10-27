@@ -11,28 +11,28 @@ export function BookingSection() {
       title: "Puja for Every Occasion",
       description:
         `Find experienced Vedic pandits in Bangalore for all your sacred ceremonies with ${siteConfig.name}. We specialize in Griha Pravesh, Satyanarayan Puja, Vivah, and all other Vedic rituals.`,
-      image: "https://images.unsplash.com/photo-1606293926075-69a00dbfde81?auto=format&fit=crop&w=200&q=80",
+      image: "/images/assets/imgi_3_Untitled-design-3.png",
     },
     {
       eyebrow: "Convenience & Expertise",
       title: "Hassle-Free Puja Experience",
       description:
         "Our team of Hindi-speaking pandits in Bangalore ensures an authentic, smooth ceremony. We provide complete samagri guidance so you can focus entirely on divine moments.",
-      image: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=200&q=80",
+      image: "/images/assets/imgi_4_Untitled-design-4.png",
     },
     {
       eyebrow: "All-Inclusive Packages",
       title: "Vedic Rituals, Seamlessly Done",
       description:
         "Whether it is a new home blessing with Griha Pravesh or a sacred Satyanarayan Katha, our services cover every detail with transparent guidance tailored to your family.",
-      image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=200&q=80",
+      image: "/images/assets/imgi_10_Untitled-design-10.jpg",
     },
     {
       eyebrow: "Trust & Reliability",
       title: "Certified & Experienced Pandits",
       description:
         "We are a team of trusted, North Indian pandits in Bangalore well-versed in Vedic scriptures, dedicated to bringing peace, health, and prosperity through authentic rituals.",
-      image: "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=200&q=80",
+      image: "/images/assets/imgi_1_gkp_hero_kalash.png",
     },
   ];
 

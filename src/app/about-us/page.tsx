@@ -85,7 +85,7 @@ export default function AboutUsPage() {
             <div className="relative w-full max-w-md aspect-4/3 rounded-2xl overflow-hidden border-2 border-[#d4c2a5] shadow-xl p-2 bg-[#fcf8f0]">
               <div className="relative w-full h-full rounded-xl overflow-hidden">
                 <Image
-                  src="https://images.unsplash.com/photo-1545239351-ef35f43d514b?auto=format&fit=crop&w=800&q=80"
+                  src="/images/assets/imgi_18_WhatsApp-Image-2025-09-07-at-10.44.26-AM-1.jpg"
                   alt="Pandit ji performing authentic Vedic havan ritual in Bangalore"
                   fill
                   sizes="(max-width: 768px) 100vw, 500px"

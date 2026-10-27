@@ -55,7 +55,7 @@ export function ServiceHero({ service }: { service: ServiceItem }) {
             <div className="w-44 h-44 sm:w-52 sm:h-52 rounded-full border-[3px] border-double border-[#ffd700] outline outline-1 outline-[#ffd700] -outline-offset-8 bg-radial from-[#5c0612] to-[#290005] p-2.5 shadow-2xl flex items-center justify-center overflow-hidden">
               <div className="relative w-full h-full rounded-full overflow-hidden">
                 <Image
-                  src={service.heroImage}
+                  src={service.cardImage}
                   alt={service.imageAlt}
                   fill
                   priority
@@ -76,7 +76,7 @@ export function ServiceHero({ service }: { service: ServiceItem }) {
             <div className="relative w-full max-w-md aspect-4/3 rounded-2xl overflow-hidden border-2 border-[#b3002d] shadow-lg bg-[#fcf8f0] p-1.5">
               <div className="relative w-full h-full rounded-xl overflow-hidden">
                 <Image
-                  src={service.cardImage}
+                  src={service.heroImage}
                   alt={service.imageAlt}
                   fill
                   sizes="(max-width: 768px) 100vw, 450px"

@@ -61,7 +61,7 @@ export default function ServicesPage() {
               {/* Image Frame */}
               <div className="relative h-56 w-full overflow-hidden bg-stone-200">
                 <Image
-                  src={service.cardImage}
+                  src={service.heroImage}
                   alt={service.imageAlt}
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"

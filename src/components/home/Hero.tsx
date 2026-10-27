@@ -29,12 +29,12 @@ export function Hero() {
 
             <div className="relative w-full h-full rounded-2xl overflow-hidden shadow-inner flex items-center justify-center">
               <Image
-                src="https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=800&q=80"
+                src="/images/assets/imgi_1_gkp_hero_kalash.png"
                 alt="Authentic Vedic Puja Kalash, Diya, and sacred flowers for home ceremonies in Bangalore"
                 fill
                 priority
                 sizes="(max-width: 768px) 90vw, 400px"
-                className="object-cover"
+                className="object-contain p-2"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent flex items-end p-5">
                 <div className="text-white">
