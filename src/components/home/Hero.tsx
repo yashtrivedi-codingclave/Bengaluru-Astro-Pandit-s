@@ -40,7 +40,7 @@ export function Hero() {
                 <div className="text-white">
                   <div className="text-xs font-bold text-[#ffd700] uppercase tracking-wider flex items-center gap-1.5 mb-0.5">
                     <span>🪔</span>
-                    <span>North Indian Vedic Vidhi</span>
+                    <span>South Indian Vedic Vidhi</span>
                   </div>
                   <div className="text-sm font-semibold">
                     Home • Office • Temple Ceremonies
@@ -73,7 +73,7 @@ export function Hero() {
 
           {/* Description */}
           <p className="text-base sm:text-lg text-[#5a4a3a] leading-relaxed mb-8 max-w-xl">
-            With 10+ years of expert guidance, we perform traditional North Indian pujas—from Grih Pravesh to Marriage—in the comfort of your home. Trusted for sacred blessings, precise rituals, and spiritual peace across Bengaluru.
+            With 10+ years of expert guidance, we perform traditional South Indian pujas—from Grih Pravesh to Marriage—in the comfort of your home. Trusted for sacred blessings, precise rituals, and spiritual peace across Bengaluru.
           </p>
 
           {/* Action Buttons */}

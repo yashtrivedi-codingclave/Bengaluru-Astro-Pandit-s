@@ -3,7 +3,7 @@ export const siteConfig = {
   legalName: "Bengaluru Astro Pandit's — Vedic Puja & Astro Services",
   tagline: "Authentic Vedic Rituals at Your Doorstep in Bangalore",
   description:
-    "Book verified North Indian Hindi pandit with Bengaluru Astro Pandit's for Griha Pravesh, Satyanarayan Puja, Marriage Puja, Bhumi Puja, Navgrah Shanti & Vedic rituals. Experienced pandits with complete samagri guidance.",
+    "Book verified South Indian Hindi pandit with Bengaluru Astro Pandit's for Griha Pravesh, Satyanarayan Puja, Marriage Puja, Bhumi Puja, Navgrah Shanti & Vedic rituals. Experienced pandits with complete samagri guidance.",
   url: "https://bengaluru-astro-pandit-s.vercel.app",
   ogImage: "/images/og-image.jpg",
   city: "Bangalore",

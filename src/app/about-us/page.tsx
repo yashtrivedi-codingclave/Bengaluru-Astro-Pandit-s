@@ -13,7 +13,7 @@ import { CornerOrnament, DiyaIcon } from "@/components/shared/SacredIcons";
 export const metadata: Metadata = {
   title: `About Us | ${siteConfig.name}`,
   description:
-    `Learn about ${siteConfig.name}. Over a decade of dedicated Vedic expertise performing authentic North Indian puja services for homes and offices in Bangalore.`,
+    `Learn about ${siteConfig.name}. Over a decade of dedicated Vedic expertise performing authentic South Indian puja services for homes and offices in Bangalore.`,
   alternates: {
     canonical: `${siteConfig.url}/about-us`,
   },
@@ -73,7 +73,7 @@ export default function AboutUsPage() {
           </h1>
 
           <p className="text-sm sm:text-base text-[#f3ebd9] leading-relaxed">
-            Bridging timeless North Indian Vedic traditions with families living in vibrant Bengaluru.
+            Bridging timeless South Indian Vedic traditions with families living in vibrant Bengaluru.
           </p>
         </div>
       </section>
@@ -106,7 +106,7 @@ export default function AboutUsPage() {
               Moving away from one&apos;s ancestral roots to cosmopolitan Bengaluru often makes it difficult to find learned pandits who perform ceremonies in familiar regional traditions. {siteConfig.name} was founded to address this very need.
             </p>
             <p className="text-sm sm:text-base text-[#5a4a3a] leading-relaxed mb-6">
-              With deep mastery of Sanskrit hymns, Vedic rituals, and North Indian customs (UP, Bihar, Rajasthan, MP, and Punjab), our pandits bring the serene sanctity of the temple directly into your drawing room, apartment, or office.
+              With deep mastery of Sanskrit hymns, Vedic rituals, and South Indian customs (Karnataka, Tamil Nadu, Andhra Pradesh, Telangana, and Kerala), our pandits bring the serene sanctity of the temple directly into your drawing room, apartment, or office.
             </p>
 
             <div className="flex flex-wrap gap-3 justify-center lg:justify-start">

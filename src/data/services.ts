@@ -10,7 +10,7 @@ export const servicesCatalogue: ServiceItem[] = [
     shortDescription:
       "Sacred Hindu wedding rituals performed with authentic Vedic mantras for marital harmony, lifelong companionship, and divine blessings.",
     longDescription:
-      "Vivah Sanskar is one of the most sacred of the sixteen Vedic sacraments in Sanatana Dharma. Our experienced North Indian pandits conduct complete traditional wedding ceremonies adhering strictly to scriptural rites, including Kanyadaan, Panigrahana, Saptapadi (Seven Vows), and Laja Homa, creating an auspicious spiritual foundation for the couple's lifelong journey together.",
+      "Vivah Sanskar is one of the most sacred of the sixteen Vedic sacraments in Sanatana Dharma. Our experienced South Indian pandits conduct complete traditional wedding ceremonies adhering strictly to scriptural rites, including Kanyadaan, Panigrahana, Saptapadi (Seven Vows), and Laja Homa, creating an auspicious spiritual foundation for the couple's lifelong journey together.",
     heroImage: "/images/assets/imgi_2_Untitled-design-11.png",
     cardImage: "/images/assets/imgi_2_Untitled-design-11.png",
     imageAlt: "Traditional Vedic Hindu Marriage Puja rituals with sacred havan fire in Bangalore",
@@ -18,7 +18,7 @@ export const servicesCatalogue: ServiceItem[] = [
     introduction:
       "Marriage in the Vedic tradition is not merely a social contract, but a sacred union of two souls witnessed by Agni Dev (the fire deity). Conducted by scholarly Hindi pandits in Bangalore, our Vivah Puja invokes the blessings of Lord Ganesha, Prajapati, the Navagrahas, and the divine ancestors to grant health, prosperity, devotion, and undying mutual respect to the bride and groom.",
     keyHighlights: [
-      "Authentic North Indian Vedic Vivah Vidhi",
+      "Authentic South Indian Vedic Vivah Vidhi",
       "Experienced Hindi-speaking wedding pandits in Bangalore",
       "Complete Muhurat calculation as per Janam Kundali",
       "Detailed Samagri checklist and pre-ceremony guidance",
@@ -74,7 +74,7 @@ export const servicesCatalogue: ServiceItem[] = [
       "Laja (puffed rice), honey, mishri, dry fruits, and seasonal fruits",
     ],
     whyChoosePoints: [
-      "10+ years conducting authentic North Indian weddings across Bengaluru",
+      "10+ years conducting authentic South Indian weddings across Bengaluru",
       "Clear Hindi explanations of every Sanskrit mantra for the couple and guests",
       "Punctual arrival and end-to-end ceremony management",
       "Transparent samagri assistance and muhurat verification",
@@ -96,19 +96,19 @@ export const servicesCatalogue: ServiceItem[] = [
           "We provide a comprehensive, transparent checklist of all necessary puja items. Upon request, we can also bring the complete, pure Vedic samagri kit directly to your venue.",
       },
       {
-        question: "Can rituals be tailored for inter-community North Indian marriages?",
+        question: "Can rituals be tailored for inter-community South Indian marriages?",
         answer:
-          "Yes, we respect and incorporate both families' regional traditions, such as UP, Bihar, Rajasthani, MP, or Punjabi rituals, ensuring everyone feels connected and spiritually blessed.",
+          "Yes, we respect and incorporate both families' regional traditions, such as Kannada, Tamil, Telugu, or Malayali rituals, ensuring everyone feels connected and spiritually blessed.",
       },
     ],
-    seoTitle: "Book North Indian Marriage Puja Pandit in Bangalore | Vivah Sanskar",
+    seoTitle: "Book South Indian Marriage Puja Pandit in Bangalore | Vivah Sanskar",
     seoDescription:
-      "Book experienced Hindi pandit in Bangalore for Marriage Puja (Vivah Sanskar). Authentic North Indian wedding rituals, Saptapadi, Havan, and complete samagri guidance.",
+      "Book experienced Hindi pandit in Bangalore for Marriage Puja (Vivah Sanskar). Authentic South Indian wedding rituals, Saptapadi, Havan, and complete samagri guidance.",
     keywords: [
       "marriage puja bangalore",
       "hindi pandit for wedding bangalore",
       "vivah sanskar pandit",
-      "north indian wedding pandit bangalore",
+      "south indian wedding pandit bangalore",
       "saptapadi rituals bangalore",
     ],
     relatedServices: ["gruh-pravesh-puja", "satyanarayan-puja", "navgrah-shanti-puja"],
@@ -129,7 +129,7 @@ export const servicesCatalogue: ServiceItem[] = [
     imageAlt: "Auspicious Griha Pravesh Puja Kalash and Diya in a new home in Bangalore",
     duration: "2.5 – 3.5 Hours",
     introduction:
-      "Stepping into a new home is one of life's most cherished milestones. Our certified North Indian pandits conduct traditional Griha Pravesh pujas across Bangalore, incorporating Dwar Puja, Kalash Yatra, Gau Puja (or symbolic Gau puja), milk boiling ritual, Vastu Shanti Havan, and Satyanarayan Katha to welcome Goddess Lakshmi and Lord Ganesha into your dwelling.",
+      "Stepping into a new home is one of life's most cherished milestones. Our certified South Indian pandits conduct traditional Griha Pravesh pujas across Bangalore, incorporating Dwar Puja, Kalash Yatra, Gau Puja (or symbolic Gau puja), milk boiling ritual, Vastu Shanti Havan, and Satyanarayan Katha to welcome Goddess Lakshmi and Lord Ganesha into your dwelling.",
     keyHighlights: [
       "Complete Vastu Shanti and Navagraha Homa",
       "Dwar Puja with Toran and Swastik consecration",
@@ -187,7 +187,7 @@ export const servicesCatalogue: ServiceItem[] = [
       "New vessel for boiling milk, cow milk, and sugar",
     ],
     whyChoosePoints: [
-      "Strict adherence to traditional North Indian Griha Pravesh Vidhi",
+      "Strict adherence to traditional South Indian Griha Pravesh Vidhi",
       "Experienced with apartment societies, independent villas, and row houses",
       "Assistance with Muhurat selection on auspicious Nakshatras and Tithis",
       "Prompt service across all areas of Bangalore and outer suburbs",
@@ -216,7 +216,7 @@ export const servicesCatalogue: ServiceItem[] = [
     ],
     seoTitle: "Book Griha Pravesh Puja in Bangalore | Housewarming Hindi Pandit",
     seoDescription:
-      "Book certified North Indian Hindi pandit in Bangalore for Griha Pravesh Puja. Authentic Vastu Shanti, Kalash Yatra, Havan, and complete samagri guidance.",
+      "Book certified South Indian Hindi pandit in Bangalore for Griha Pravesh Puja. Authentic Vastu Shanti, Kalash Yatra, Havan, and complete samagri guidance.",
     keywords: [
       "griha pravesh puja bangalore",
       "housewarming pandit bangalore",
@@ -409,7 +409,7 @@ export const servicesCatalogue: ServiceItem[] = [
       "Fresh fruits, dry fruits, and sweets for Naivedya",
     ],
     whyChoosePoints: [
-      "Expert North Indian pandits trained in Vedic astrology and ritual chanting",
+      "Expert South Indian pandits trained in Vedic astrology and ritual chanting",
       "Accurate pronounciation of traditional Vedic Beej mantras",
       "Convenient home, apartment, or temple service across Bangalore",
     ],
@@ -469,7 +469,7 @@ export const servicesCatalogue: ServiceItem[] = [
       "Rudrabhishek of Shiva Lingam with Panchamrit and sacred waters",
       "Customizable counts: 1100, 2100, 5100, 11000, or 125000 repetitions",
       "Havan utilizing Bilva leaves, Durva, Ghee, and herbal samagri",
-      "Conducted by devout, experienced North Indian pandits",
+      "Conducted by devout, experienced South Indian pandits",
     ],
     benefits: [
       "Instills deep inner calm, reducing anxious thoughts and spiritual restlessness",
@@ -573,7 +573,7 @@ export const servicesCatalogue: ServiceItem[] = [
     imageAlt: "Devotional Ramayan Sunderkand Path with Hanuman Ji Puja in Bangalore",
     duration: "2.5 – 3.5 Hours",
     introduction:
-      "Sunderkand is acclaimed as one of the most spiritually uplifting texts in North Indian tradition. Our experienced Hindi-speaking pandits lead the musical, devotional recitation of all dohas and chaupais accompanied by traditional dholak, manjira, Hanuman Chalisa, Bajrang Baan, and a concluding Sankat Mochan Havan, creating an electrifying atmosphere of devotion for your family.",
+      "Sunderkand is acclaimed as one of the most spiritually uplifting texts in South Indian tradition. Our experienced Hindi-speaking pandits lead the musical, devotional recitation of all dohas and chaupais accompanied by traditional dholak, manjira, Hanuman Chalisa, Bajrang Baan, and a concluding Sankat Mochan Havan, creating an electrifying atmosphere of devotion for your family.",
     keyHighlights: [
       "Melodious traditional chanting of complete Sunderkand chaupais and dohas",
       "Lord Hanuman consecration with Sindoor, Jasmine oil (Chameli tel), and Betel leaf (Paan)",
@@ -688,7 +688,7 @@ export const servicesCatalogue: ServiceItem[] = [
       "Magnificent floral decoration of Mata Rani's Chauki",
       "Akhand Jyot ceremony with pure cow ghee",
       "108 divine names of Maa Durga (Durga Ashtottara Shatanamavali)",
-      "Traditional Punjabi/North Indian Bhents, Bhajans, and Jai Kaara",
+      "Traditional South Indian Bhents, Bhajans, and Jai Kaara",
       "Halwa, Chana, and Puri Bhog with Kanya Pujan guidance",
     ],
     benefits: [
@@ -741,7 +741,7 @@ export const servicesCatalogue: ServiceItem[] = [
     ],
     whyChoosePoints: [
       "Complete coordination from setup to concluding Ardas and Aarti",
-      "Experienced singers and musicians skilled in traditional North Indian bhents",
+      "Experienced singers and musicians skilled in traditional South Indian bhents",
       "Flexible packages for intimate home gatherings or large community halls in Bangalore",
     ],
     faqs: [
@@ -852,7 +852,7 @@ export const servicesCatalogue: ServiceItem[] = [
     ],
     whyChoosePoints: [
       "Enthusiastic and clear Hindi narration of the sacred Katha",
-      "Authentic North Indian vidhi practiced for generations",
+      "Authentic South Indian vidhi practiced for generations",
       "Available on Purnima, Ekadashi, weekends, and festival days across Bangalore",
     ],
     faqs: [
@@ -879,7 +879,7 @@ export const servicesCatalogue: ServiceItem[] = [
     ],
     seoTitle: "Book Satyanarayan Puja in Bangalore | Katha & Vrat Hindi Pandit",
     seoDescription:
-      "Book experienced North Indian Hindi pandit in Bangalore for Shri Satyanarayan Puja. Authentic Katha narration, Panchamrit, Havan, and complete samagri guidance.",
+      "Book experienced South Indian Hindi pandit in Bangalore for Shri Satyanarayan Puja. Authentic Katha narration, Panchamrit, Havan, and complete samagri guidance.",
     keywords: [
       "satyanarayan puja bangalore",
       "satyanarayan katha pandit",
@@ -905,7 +905,7 @@ export const servicesCatalogue: ServiceItem[] = [
     imageAlt: "Auspicious Namkaran Puja naming ceremony rituals for newborn in Bangalore",
     duration: "2 – 2.5 Hours",
     introduction:
-      "In Vedic philosophy, a person's name is not just an identifier, but a vibrational blueprint influencing their life's destiny. Our experienced North Indian pandits in Bangalore calculate the auspicious first syllable (Akshar) based on the baby's exact date, time, and place of birth, conducting sacred Homa, Ayushya Sukta recitation, and whisper ceremony (Karna Vedha guidance) for the newborn's radiant future.",
+      "In Vedic philosophy, a person's name is not just an identifier, but a vibrational blueprint influencing their life's destiny. Our experienced South Indian pandits in Bangalore calculate the auspicious first syllable (Akshar) based on the baby's exact date, time, and place of birth, conducting sacred Homa, Ayushya Sukta recitation, and whisper ceremony (Karna Vedha guidance) for the newborn's radiant future.",
     keyHighlights: [
       "Astrological Janam Nakshatra and Pada calculation for auspicious syllables",
       "Ayushya Homa for the infant's health and longevity",
@@ -963,7 +963,7 @@ export const servicesCatalogue: ServiceItem[] = [
     whyChoosePoints: [
       "Accurate astrological calculation of birth Nakshatra syllables",
       "Gentle, family-centered ceremony pacing suitable for infant comfort",
-      "Traditional North Indian customs seamlessly followed in Bangalore apartments",
+      "Traditional South Indian customs seamlessly followed in Bangalore apartments",
     ],
     faqs: [
       {
@@ -989,7 +989,7 @@ export const servicesCatalogue: ServiceItem[] = [
     ],
     seoTitle: "Book Namkaran Puja in Bangalore | Baby Naming Ceremony Pandit",
     seoDescription:
-      "Book experienced North Indian Hindi pandit in Bangalore for Namkaran Puja. Nakshatra calculation, Ayushya Havan, cradle rituals, and complete samagri guidance.",
+      "Book experienced South Indian Hindi pandit in Bangalore for Namkaran Puja. Nakshatra calculation, Ayushya Havan, cradle rituals, and complete samagri guidance.",
     keywords: [
       "namkaran puja bangalore",
       "baby naming ceremony pandit",
@@ -1017,7 +1017,7 @@ export const servicesCatalogue: ServiceItem[] = [
     introduction:
       "In Sanatana Dharma, honoring one's ancestors is considered a sacred duty (Pitru Rina). When performed with sincere devotion ('Shraddhayaa kriyate yat tat Shraaddham'), these rituals appease the departed souls in Pitru Loka, seeking their loving protection and mitigating Pitru Dosha. Our learned pandits in Bangalore guide devotees through proper Tarpan, Pinda Pradanam, and Brahmin Bhoj with deep reverence.",
     keyHighlights: [
-      "Authentic North Indian Pitru Paksha & annual Tithi Shraddh Vidhi",
+      "Authentic South Indian Pitru Paksha & annual Tithi Shraddh Vidhi",
       "Kusha grass ring (Pavitri) and black sesame (Kala Til) Tarpan",
       "Pinda Daan prepared with cooked rice, barley flour, milk, and honey",
       "Panchbali Karma: offerings to Cow, Crow, Dog, Ants, and Deities",

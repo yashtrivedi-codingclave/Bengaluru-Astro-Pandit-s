@@ -43,7 +43,7 @@ export default function TermsAndConditionsPage() {
             1. Nature of Services
           </h2>
           <p>
-            {siteConfig.name} facilitates authentic North Indian Vedic religious rituals, including housewarming (Griha Pravesh), weddings, satyanarayan katha, and havans conducted by learned pandits. All ceremonies are performed in good faith following traditional scriptural guidelines.
+            {siteConfig.name} facilitates authentic South Indian Vedic religious rituals, including housewarming (Griha Pravesh), weddings, satyanarayan katha, and havans conducted by learned pandits. All ceremonies are performed in good faith following traditional scriptural guidelines.
           </p>
           <p className="text-xs text-[#6a5a4a] italic">
             Disclaimer: Vedic rituals are spiritual practices and sacred traditions. We make no medical, commercial, legal, or supernatural guarantees regarding specific outcomes.

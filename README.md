@@ -11,7 +11,7 @@ A production-ready, commercial-grade Next.js web application for Bengaluru Astro
 - **Devotional Visual Identity**: Warm cream backgrounds (`#FAF6EE`), deep royal maroon headers (`#7B1828` / `#5C0612`), saffron/gold accents (`#FFD700`, `#B89768`), and ornamental sacred motifs (ॐ, Diyas, Kalash, Lotus dividers).
 - **All 17 Specified Routes Fully Implemented**:
   - `GET /` — Homepage with all 10 major sections
-  - `GET /about-us` — Business story, North Indian Vedic expertise, values, and FAQ accordion
+  - `GET /about-us` — Business story, South Indian Vedic expertise, values, and FAQ accordion
   - `GET /services` — Master catalogue of all 10 Vedic ceremonies
   - `GET /gallery` — Responsive category-filtered photo gallery with image lightbox modal
   - `GET /contact-us` — Contact card, direct WhatsApp/Call links, enquiry form, and Bangalore coverage map area

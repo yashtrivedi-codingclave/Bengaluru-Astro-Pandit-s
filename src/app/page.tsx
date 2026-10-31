@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Hero } from "@/components/home/Hero";
 import { AboutPreview } from "@/components/home/AboutPreview";
+import { DiwaliPujaSection } from "@/components/home/DiwaliPujaSection";
 import { WhyChooseUs } from "@/components/home/WhyChooseUs";
 import { PujaProcess } from "@/components/home/PujaProcess";
 import { ServicesSection } from "@/components/home/ServicesSection";
@@ -13,7 +14,7 @@ import { siteConfig } from "@/config/site";
 export const metadata: Metadata = {
   title: `${siteConfig.name} | Best Vedic Puja Services in Bangalore`,
   description:
-    "Book verified North Indian Hindi pandit in Bangalore for Griha Pravesh, Satyanarayan, Marriage, Bhumi Puja & Vedic rituals. Experienced pandits with complete samagri.",
+    "Book verified South Indian Hindi pandit in Bangalore for Griha Pravesh, Satyanarayan, Marriage, Bhumi Puja & Vedic rituals. Experienced pandits with complete samagri.",
   alternates: {
     canonical: siteConfig.url,
   },
@@ -36,6 +37,9 @@ export default function HomePage() {
 
       {/* About Us Preview */}
       <AboutPreview />
+
+      {/* Diwali & Go Puja Festival Section */}
+      <DiwaliPujaSection />
 
       {/* Why Choose Us 3-Card Grid */}
       <WhyChooseUs />

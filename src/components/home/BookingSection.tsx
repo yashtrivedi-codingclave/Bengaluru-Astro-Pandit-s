@@ -31,7 +31,7 @@ export function BookingSection() {
       eyebrow: "Trust & Reliability",
       title: "Certified & Experienced Pandits",
       description:
-        "We are a team of trusted, North Indian pandits in Bangalore well-versed in Vedic scriptures, dedicated to bringing peace, health, and prosperity through authentic rituals.",
+        "We are a team of trusted, South Indian pandits in Bangalore well-versed in Vedic scriptures, dedicated to bringing peace, health, and prosperity through authentic rituals.",
       image: "/images/assets/imgi_1_gkp_hero_kalash.png",
     },
   ];

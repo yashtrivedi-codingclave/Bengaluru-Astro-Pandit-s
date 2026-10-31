@@ -98,7 +98,7 @@ export function ServiceHero({ service }: { service: ServiceItem }) {
             </h2>
 
             <p className="text-sm sm:text-base font-semibold text-[#8b5a2b] mb-4">
-              Welcome divine blessings, peace, and prosperity with traditional North Indian Vedic rituals in Bangalore.
+              Welcome divine blessings, peace, and prosperity with traditional South Indian Vedic rituals in Bangalore.
             </p>
 
             <p className="text-sm text-[#4b3e2f] leading-relaxed mb-6">

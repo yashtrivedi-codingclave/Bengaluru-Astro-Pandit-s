@@ -6,7 +6,7 @@ export const galleryItems: GalleryItem[] = [
     title: "Vedic Vivah Havan & Mandap Puja",
     category: "Marriage",
     imageUrl: "/images/assets/imgi_18_WhatsApp-Image-2025-09-07-at-10.44.26-AM-1.jpg",
-    description: "Sacred fire offerings and Saptapadi vows in an authentic North Indian wedding ceremony.",
+    description: "Sacred fire offerings and Saptapadi vows in an authentic South Indian wedding ceremony.",
     aspectRatio: "landscape",
   },
   {

@@ -11,7 +11,7 @@ export function WhyChooseUs() {
     },
     {
       icon: <Star className="w-8 h-8 text-[#7b1828]" />,
-      title: "Authentic North Indian Puja Vidhi",
+      title: "Authentic South Indian Puja Vidhi",
       description:
         "All ceremonies follow traditional Vedic procedures guided strictly by scriptures, ensuring auspicious results and divine harmony for your household.",
     },

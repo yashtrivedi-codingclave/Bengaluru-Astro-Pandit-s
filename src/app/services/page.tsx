@@ -45,7 +45,7 @@ export default function ServicesPage() {
           </h1>
 
           <p className="text-sm sm:text-base text-[#f3ebd9] leading-relaxed">
-            All 10 authentic North Indian Vedic ceremonies performed at your home, office, or temple in Bangalore.
+            All 10 authentic South Indian Vedic ceremonies performed at your home, office, or temple in Bangalore.
           </p>
         </div>
       </section>

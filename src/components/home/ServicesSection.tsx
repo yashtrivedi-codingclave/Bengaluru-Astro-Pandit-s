@@ -25,7 +25,7 @@ export function ServicesSection() {
           </h2>
 
           <p className="text-sm sm:text-base text-[#4b3e2f] leading-relaxed">
-            Authentic North Indian Vedic rituals in Bangalore performed with 10+ years of expertise. From Marriage Puja to Satyanarayan Katha, we ensure auspicious ceremonies, accurate mantras, and divine blessings for your home, office, and family.
+            Authentic South Indian Vedic rituals in Bangalore performed with 10+ years of expertise. From Marriage Puja to Satyanarayan Katha, we ensure auspicious ceremonies, accurate mantras, and divine blessings for your home, office, and family.
           </p>
         </div>
 

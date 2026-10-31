@@ -5,7 +5,7 @@ import type { ServiceItem } from "@/types";
 export function ServiceBenefits({ service }: { service: ServiceItem }) {
   const whyChooseList = [
     "10+ years of authentic Vedic puja experience in Bangalore",
-    "Expertise in all North Indian traditions and accurate Sanskrit pronunciation",
+    "Expertise in all South Indian traditions and accurate Sanskrit pronunciation",
     "Personalized guidance for auspicious Muhurat and samagri requirements",
     "Performed strictly as per sacred Vedic scriptures and family gotra",
     "Trusted by hundreds of families across Bengaluru for peace and prosperity",

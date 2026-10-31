@@ -7,12 +7,12 @@ export const generalFAQs: FAQItem[] = [
   {
     question: "Which pujas and rituals do you perform in Bangalore?",
     answer:
-      "We perform all major North Indian Vedic rituals including Marriage Puja (Vivah), Griha Pravesh (Housewarming), Satyanarayan Puja, Bhumi Puja, Navgrah Shanti, Mahamrityunjay Jaap, Ramayan Sunderkand Path, Mata Ki Chauki, Namkaran Sanskar, and Shraddh Karma.",
+      "We perform all major South Indian Vedic rituals including Marriage Puja (Vivah), Griha Pravesh (Housewarming), Satyanarayan Puja, Bhumi Puja, Navgrah Shanti, Mahamrityunjay Jaap, Ramayan Sunderkand Path, Mata Ki Chauki, Namkaran Sanskar, and Shraddh Karma.",
   },
   {
-    question: "Do you follow authentic North Indian Vedic traditions?",
+    question: "Do you follow authentic South Indian Vedic traditions?",
     answer:
-      "Yes, every ceremony strictly follows traditional Vedic scriptures, authentic Sanskrit mantras, and North Indian vidhis (such as UP, Bihar, Rajasthan, MP, and Punjabi traditions).",
+      "Yes, every ceremony strictly follows traditional Vedic scriptures, authentic Sanskrit mantras, and South Indian vidhis (such as Karnataka, Tamil Nadu, Andhra Pradesh, Telangana, and Kerala traditions).",
   },
   {
     question: "Do you provide guidance on auspicious Muhurat and puja samagri?",

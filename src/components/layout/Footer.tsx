@@ -37,7 +37,7 @@ export function Footer() {
             </div>
 
             <p className="text-sm text-[#f3ebd9] leading-relaxed mb-4 max-w-sm">
-              Authentic North Indian Vedic puja services in Bangalore. Over a decade of sacred guidance performing traditional Griha Pravesh, Satyanarayan, Marriage, and Vedic ceremonies for homes and offices.
+              Authentic South Indian Vedic puja services in Bangalore. Over a decade of sacred guidance performing traditional Griha Pravesh, Satyanarayan, Marriage, and Vedic ceremonies for homes and offices.
             </p>
 
             <div className="flex items-center gap-2 mt-2 text-[#ffd700]">
@@ -178,7 +178,7 @@ export function Footer() {
         {/* Bottom Copyright Strip */}
         <div className="mt-6 pt-4 border-t border-[#ffd700]/40 text-center text-[11px] text-[#d4c2a5] leading-relaxed">
           <p>
-            © {currentYear} {siteConfig.legalName}. All Rights Reserved. Serving families across Bangalore with traditional North Indian Vedic rituals.
+            © {currentYear} {siteConfig.legalName}. All Rights Reserved. Serving families across Bangalore with traditional South Indian Vedic rituals.
           </p>
         </div>
       </div>

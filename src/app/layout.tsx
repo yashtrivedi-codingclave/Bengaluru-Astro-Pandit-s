@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   keywords: [
     "pandit in bangalore",
     "hindi pandit bangalore",
-    "north indian pandit bangalore",
+    "south indian pandit bangalore",
     "griha pravesh puja bangalore",
     "marriage puja pandit",
     "satyanarayan puja bangalore",

@@ -43,7 +43,7 @@ export default function GalleryPage() {
           </h1>
 
           <p className="text-sm sm:text-base text-[#f3ebd9] leading-relaxed">
-            Capturing the serenity, sacred mantras, and devotion of our North Indian Vedic rituals in Bengaluru.
+            Capturing the serenity, sacred mantras, and devotion of our South Indian Vedic rituals in Bengaluru.
           </p>
         </div>
       </section>

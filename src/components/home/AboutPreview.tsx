@@ -40,11 +40,11 @@ export function AboutPreview() {
             </h2>
 
             <h3 className="text-lg sm:text-xl font-bold font-serif text-[#4b3e2f] mb-4">
-              Authentic North Indian Puja Services
+              Authentic South Indian Puja Services
             </h3>
 
             <p className="text-sm sm:text-base text-[#5a4a3a] leading-relaxed mb-4">
-              At {siteConfig.name} in Bangalore, we provide authentic North Indian puja services for homes, offices, and auspicious family occasions. With over a decade of Vedic experience, our trusted pandits perform every ceremony with devotion, scriptural precision, and heartfelt blessings for families across Bengaluru.
+              At {siteConfig.name} in Bangalore, we provide authentic South Indian puja services for homes, offices, and auspicious family occasions. With over a decade of Vedic experience, our trusted pandits perform every ceremony with devotion, scriptural precision, and heartfelt blessings for families across Bengaluru.
             </p>
 
             <p className="text-sm sm:text-base text-[#5a4a3a] leading-relaxed mb-8">

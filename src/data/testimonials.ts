@@ -31,7 +31,7 @@ export const testimonialsData: TestimonialItem[] = [
     location: "Indiranagar, Bangalore",
     serviceBooked: "Marriage Puja",
     review:
-      "Our marriage rituals were conducted strictly according to traditional North Indian Vedic vidhi. The Saptapadi and Kanyadaan moments were conducted with solemn sanctity. All our relatives praised Pandit ji's command over the Sanskrit mantras.",
+      "Our marriage rituals were conducted strictly according to traditional South Indian Vedic vidhi. The Saptapadi and Kanyadaan moments were conducted with solemn sanctity. All our relatives praised Pandit ji's command over the Sanskrit mantras.",
     rating: 5,
     isVerified: true,
     avatarLetter: "K",

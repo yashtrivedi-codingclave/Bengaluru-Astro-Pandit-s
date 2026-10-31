@@ -15,7 +15,7 @@ export function ServiceVidhi({ service }: { service: ServiceItem }) {
             Puja Vidhi & Step-by-Step Procedure
           </h2>
           <p className="text-sm sm:text-base text-[#5a4a3a]">
-            Conducted in strict adherence to ancient North Indian Vedic scriptures and sacred traditions.
+            Conducted in strict adherence to ancient South Indian Vedic scriptures and sacred traditions.
           </p>
         </div>
 
