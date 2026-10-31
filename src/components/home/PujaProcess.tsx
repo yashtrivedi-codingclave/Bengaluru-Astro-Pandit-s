@@ -1,12 +1,10 @@
 import React from "react";
 import { Laptop, PhoneCall, Home, Gift, MessageCircle, Phone } from "lucide-react";
-import { siteConfig } from "@/config/site";
 import { generateQuickWhatsAppUrl } from "@/lib/whatsapp";
 import { StepDivider } from "@/components/shared/SacredIcons";
 
 export function PujaProcess() {
   const whatsappUrl = generateQuickWhatsAppUrl();
-  const phoneUrl = `tel:${siteConfig.contact.phone}`;
 
   const steps = [
     {
@@ -104,7 +102,9 @@ export function PujaProcess() {
           </a>
 
           <a
-            href={phoneUrl}
+            href={whatsappUrl}
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-b from-[#b3002d] to-[#7a0016] text-white font-bold text-sm px-7 py-3.5 rounded-full shadow-md hover:shadow-lg hover:-translate-y-0.5 transition-all border border-[#ffd700]"
           >
             <Phone className="w-4 h-4" />

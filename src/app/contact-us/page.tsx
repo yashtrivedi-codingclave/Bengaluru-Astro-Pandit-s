@@ -171,7 +171,9 @@ export default function ContactUsPage() {
                 <span>WhatsApp</span>
               </a>
               <a
-                href={phoneUrl}
+                href={whatsappUrl}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="flex-1 inline-flex items-center justify-center gap-2 bg-gradient-to-r from-[#ff2e5b] to-[#b3002d] text-white font-bold text-xs sm:text-sm py-3 px-4 rounded-xl shadow hover:opacity-95 transition-opacity"
               >
                 <Phone className="w-4 h-4" />

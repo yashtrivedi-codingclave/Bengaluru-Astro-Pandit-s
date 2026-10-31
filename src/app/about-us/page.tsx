@@ -21,7 +21,6 @@ export const metadata: Metadata = {
 
 export default function AboutUsPage() {
   const whatsappUrl = generateQuickWhatsAppUrl(`Hello, I would like to know more about ${siteConfig.name} services in Bangalore.`);
-  const phoneUrl = `tel:${siteConfig.contact.phone}`;
 
   const values = [
     {
@@ -120,7 +119,9 @@ export default function AboutUsPage() {
                 <span>Chat on WhatsApp</span>
               </a>
               <a
-                href={phoneUrl}
+                href={whatsappUrl}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-gradient-to-r from-[#ff2e5b] to-[#b3002d] text-white font-bold text-sm px-6 py-3 rounded-full shadow-md hover:shadow-lg transition-all"
               >
                 <Phone className="w-4 h-4" />

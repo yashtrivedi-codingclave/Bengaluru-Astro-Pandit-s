@@ -8,7 +8,6 @@ import { CornerOrnament } from "@/components/shared/SacredIcons";
 
 export function Hero() {
   const whatsappUrl = generateQuickWhatsAppUrl();
-  const phoneUrl = `tel:${siteConfig.contact.phone}`;
 
   return (
     <section className="relative bg-[#faf6ee] border-b-[1.5px] border-[#d4c2a5] py-14 sm:py-20 px-4 sm:px-6 overflow-hidden">
@@ -97,7 +96,9 @@ export function Hero() {
             </a>
 
             <a
-              href={phoneUrl}
+              href={whatsappUrl}
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-[#ff2e5b] to-[#b3002d] text-white font-bold text-base px-7 py-3.5 rounded-full shadow-[0_5px_15px_rgba(255,46,91,0.25)] hover:shadow-[0_8px_25px_rgba(255,46,91,0.4)] hover:-translate-y-0.5 transition-all border border-[#ffd700]"
             >
               <Phone className="w-4 h-4" />

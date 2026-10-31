@@ -10,7 +10,6 @@ export function ServiceHero({ service }: { service: ServiceItem }) {
   const whatsappUrl = generateQuickWhatsAppUrl(
     `Hello, I would like to enquire about ${service.title} in Bangalore. Please share details and muhurat availability.`
   );
-  const phoneUrl = `tel:${siteConfig.contact.phone}`;
 
   return (
     <>
@@ -118,7 +117,9 @@ export function ServiceHero({ service }: { service: ServiceItem }) {
               </a>
 
               <a
-                href={phoneUrl}
+                href={whatsappUrl}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-[#ff2e5b] to-[#b3002d] text-white font-bold text-sm px-6 py-3 rounded-full shadow-md hover:shadow-lg hover:-translate-y-0.5 transition-all border border-[#ffd700]"
               >
                 <Phone className="w-4 h-4" />

@@ -13,14 +13,14 @@ export const siteConfig = {
   address: "24, Temple View Road, Jayanagar 4th Block, Bengaluru, Karnataka 560011",
   workingHours: "Monday – Saturday: 9:00 AM – 6:00 PM (Emergency muhurat services available on Sunday)",
   
-  // Contact Configuration (Centralized placeholders)
+  // Contact Configuration
   contact: {
-    phone: "+91 90000 00000",
-    phoneDisplay: "+91 90000 00000",
-    whatsapp: "919000000000", // Country code without +
-    whatsappDisplay: "+91 90000 00000",
+    phone: "+917019364933",
+    phoneDisplay: "+91 70193 64933",
+    whatsapp: "917019364933", // Country code without +
+    whatsappDisplay: "+91 70193 64933",
     email: "bookings@example.com",
-    isPlaceholderContact: true, // Flag to indicate placeholder mode until client provides live numbers
+    isPlaceholderContact: false,
   },
 
   // Key stats shown on trust counters

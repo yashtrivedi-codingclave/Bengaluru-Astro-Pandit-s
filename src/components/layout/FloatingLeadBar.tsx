@@ -7,7 +7,6 @@ import { generateQuickWhatsAppUrl } from "@/lib/whatsapp";
 
 export function FloatingLeadBar() {
   const whatsappUrl = generateQuickWhatsAppUrl();
-  const phoneUrl = `tel:${siteConfig.contact.phone}`;
 
   return (
     <>
@@ -18,7 +17,9 @@ export function FloatingLeadBar() {
         aria-label="Quick contact actions"
       >
         <a
-          href={phoneUrl}
+          href={whatsappUrl}
+          target="_blank"
+          rel="noopener noreferrer"
           className="flex items-center justify-center gap-2 py-2.5 px-3 rounded-xl text-white font-bold text-xs bg-gradient-to-r from-[#ff2e5b] via-[#a01a58] to-[#8b1d5a] shadow-md active:scale-95 transition-transform"
           aria-label={`Call ${siteConfig.name} now`}
         >

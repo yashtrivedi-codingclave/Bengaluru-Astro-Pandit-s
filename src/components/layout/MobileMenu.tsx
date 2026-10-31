@@ -148,7 +148,9 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
               <span>WhatsApp</span>
             </a>
             <a
-              href={`tel:${siteConfig.contact.phone}`}
+              href={generateQuickWhatsAppUrl()}
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex items-center justify-center gap-1.5 py-2.5 px-3 rounded-lg text-white font-bold text-xs bg-gradient-to-r from-[#ff2e5b] to-[#b3002d] shadow"
             >
               <Phone className="w-3.5 h-3.5" />

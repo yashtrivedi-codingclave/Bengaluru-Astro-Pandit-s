@@ -8,7 +8,6 @@ import { CornerOrnament } from "@/components/shared/SacredIcons";
 
 export function AboutPreview() {
   const whatsappUrl = generateQuickWhatsAppUrl();
-  const phoneUrl = `tel:${siteConfig.contact.phone}`;
 
   return (
     <section className="relative bg-[#faf6ee] py-16 sm:py-20 px-4 sm:px-6 overflow-hidden border-b-[1.5px] border-[#d4c2a5]">
@@ -63,7 +62,9 @@ export function AboutPreview() {
               </a>
 
               <a
-                href={phoneUrl}
+                href={whatsappUrl}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-[#fcf6ba] to-[#bf953f] text-[#3b2b11] font-bold text-sm px-6 py-3 rounded-full shadow-md hover:shadow-lg hover:-translate-y-0.5 transition-all border border-[#d4c2a5]"
               >
                 <Phone className="w-4 h-4 text-[#3b2b11]" />
