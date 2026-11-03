@@ -788,7 +788,7 @@ export const servicesCatalogue: ServiceItem[] = [
     shortDescription:
       "Auspicious puja dedicated to Lord Vishnu for wealth, happiness, familial harmony, and the fulfillment of righteous wishes.",
     longDescription:
-      "Shri Satyanarayan Puja is one of the most widely observed and cherished Vedic rituals across North India. Dedicated to Lord Satyanarayan—the embodiment of eternal Truth and the preserver Lord Vishnu—this ceremony involves chanting sacred hymns, reading the five devotional chapters of the Katha, and offering the beloved Panchamrit and Panjiri (Sheera) prasad.",
+      "Shri Satyanarayan Puja is one of the most widely observed and cherished Vedic rituals across South India. Dedicated to Lord Satyanarayan—the embodiment of eternal Truth and the preserver Lord Vishnu—this ceremony involves chanting sacred hymns, reading the five devotional chapters of the Katha, and offering the beloved Panchamrit and Panjiri (Sheera) prasad.",
     heroImage: "/images/assets/imgi_2_Untitled-design-15.jpg",
     cardImage: "/images/assets/imgi_9_Untitled-design-9.png",
     imageAlt: "Shri Satyanarayan Puja setup with banana stems, Kalash, and Panchamrit in Bangalore",
